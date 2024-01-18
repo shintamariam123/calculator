@@ -1,0 +1,40 @@
+
+
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input[type="text"]{
+    width: 300px;
+    height: 55px;
+    border: 1px solid transparent;
+    /* border-radius: 0px; */
+}
+
+input[type="button"]{
+    width: 80px;
+    height: 35px;
+    border-radius: 0px;
+}
+#equal{
+    background-color: rgb(29, 29, 81);
+    color: #fff;
+}
+#add{
+    background-color: pink;
+    color: black;
+}
+#divide{
+    background-color: pink;
+    color: black; 
+}
+#multiply{
+    background-color: pink;
+    color: black;
+}
+#minus{
+    background-color: pink;
+    color: black;
+}
